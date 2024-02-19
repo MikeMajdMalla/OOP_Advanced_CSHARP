@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AssigmentInCSharp/1.0.0": {
+        "dependencies": {
+          "welcomingMsg": "1.0.0"
+        },
+        "runtime": {
+          "AssigmentInCSharp.dll": {}
+        }
+      },
+      "welcomingMsg/1.0.0": {
+        "runtime": {
+          "welcomingMsg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssigmentInCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "welcomingMsg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

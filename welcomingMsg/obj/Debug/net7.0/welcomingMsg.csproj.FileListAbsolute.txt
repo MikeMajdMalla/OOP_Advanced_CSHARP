@@ -1,0 +1,12 @@
+C:\Users\mikem\source\repos\welcomingMsg\bin\Debug\net7.0\welcomingMsg.deps.json
+C:\Users\mikem\source\repos\welcomingMsg\bin\Debug\net7.0\welcomingMsg.dll
+C:\Users\mikem\source\repos\welcomingMsg\bin\Debug\net7.0\welcomingMsg.pdb
+C:\Users\mikem\source\repos\welcomingMsg\obj\Debug\net7.0\welcomingMsg.csproj.AssemblyReference.cache
+C:\Users\mikem\source\repos\welcomingMsg\obj\Debug\net7.0\welcomingMsg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikem\source\repos\welcomingMsg\obj\Debug\net7.0\welcomingMsg.AssemblyInfoInputs.cache
+C:\Users\mikem\source\repos\welcomingMsg\obj\Debug\net7.0\welcomingMsg.AssemblyInfo.cs
+C:\Users\mikem\source\repos\welcomingMsg\obj\Debug\net7.0\welcomingMsg.csproj.CoreCompileInputs.cache
+C:\Users\mikem\source\repos\welcomingMsg\obj\Debug\net7.0\welcomingMsg.dll
+C:\Users\mikem\source\repos\welcomingMsg\obj\Debug\net7.0\refint\welcomingMsg.dll
+C:\Users\mikem\source\repos\welcomingMsg\obj\Debug\net7.0\welcomingMsg.pdb
+C:\Users\mikem\source\repos\welcomingMsg\obj\Debug\net7.0\ref\welcomingMsg.dll
